@@ -1,1 +1,1 @@
-# jobPortal
+# Developed a job portal mobile application as part of my final year project. The application aimed to connect job seekers and employers, providing a user-friendly interface for job postings, applications, and communication between both parties. Utilized modern mobile app development frameworks to create a seamless and intuitive user experience. Implemented features such as job search, resume upload, job alerts, and an in-app messaging system. Successfully demonstrated strong problem-solving skills and software development abilities throughout the project.
